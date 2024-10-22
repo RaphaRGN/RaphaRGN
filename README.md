@@ -5,8 +5,8 @@ Sou Raphael Goettzinger Neto, um desenvolvedor entusiasta apaixonado por tecnolo
 
 🔧 Tecnologias e Ferramentas:
 
--  🌐 Linguagens: Java | JavaScript | Node.js | SQL | HTML | CSS
--  🧰 Frameworks: Spring Boot | Socket.IO | Electron
+-  🌐 Linguagens: Java | SQL | HTML | CSS | JavaScript
+-  🧰 Frameworks: Spring Boot | Socket.IO | Electron | Jquery | Bootstrap
 -  🛠 Ferramentas: IntelliJ IDEA | VS Code | Git 
 
 🚀 Projetos em Destaque:
