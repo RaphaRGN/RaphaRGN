@@ -1,18 +1,14 @@
 # 💻 Olá ! Bem-vindo ao meu GitHub!
 
-Sou Raphael Goettzinger Neto, um desenvolvedor entusiasta apaixonado por tecnologia, especialmente em áreas como Java, onde busco constantemente aprimorar minhas habilidades. Tenho grande interesse em explorar robótica e microcomputadores como o Raspberry Pi, áreas em que pretendo me aprofundar para criar soluções ainda mais práticas e inovadoras.
+Sou Raphael Goettzinger Neto, um desenvolvedor back-end Java que desde pequeno é apaixonado por tecnologia, especialmente em áreas como computação e programação, onde busco constantemente aprimorar minhas habilidades.
 
 ## 🔧 Tecnologias e Ferramentas:
 
 -  🌐 Linguagens: Java | SQL | HTML | CSS | JavaScript
--  🧰 Frameworks: Spring Boot | Socket.IO | Electron | Jquery | Bootstrap
--  🛠 Ferramentas: IntelliJ IDEA | VS Code | Git 
+-  🧰 Frameworks: Spring Boot | Socket.IO | Jquery | Bootstrap | RabbitMQ
+-  🛠 Ferramentas: Git | Github | PostgreSQL
 
 ## 🚀 Projetos em Destaque:
-
-- SentinelHSC:
-
-Um sistema para monitoramento e automação de segurança usando Node.js, Socket.IO e Electron. O projeto está em desenvolvimento, com foco em aplicações desktop de alto desempenho.
 
 - Portfólio Java:
 
@@ -24,7 +20,7 @@ Estou neste momento montando um portifólio aprofundado da linguagem Java, aguar
 Estou me aprofundando cada dia mais na linguagem Java, SQL, e aprimorando meu conhecimento em outras tecnologias para criar projetos mais robustos.
 
 ### 📞 Contatos:
-- 📧 [E-mail](raphaelgoettzinger@gmail.com)
+- 📧 raphaelgoettzinger@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/raphael-goettzinger-neto-136274298/)
 - 📷 [Instagram](https://www.instagram.com/rapha_goettzinger/?hl=pt-br)
 
